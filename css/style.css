@@ -308,7 +308,7 @@
     .cabecalho{
         display: flex;
         justify-content: space-between;
-        gap: 11.6rem;
+        gap: 11rem;
 
     }
     .cabecalho-titulo{
