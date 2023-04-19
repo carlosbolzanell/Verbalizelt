@@ -349,9 +349,9 @@
     }
     .start2{
         display: flex;
+        justify-content: center;
         width: 50%;
         font-size: 0.7rem;
-        padding-left: 1.9rem;
     }
     .img-baixo{
         margin-top: 1.5rem;
